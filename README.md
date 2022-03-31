@@ -30,17 +30,14 @@ Para utilizar, basta digitar no seu terminal
 
 ```
 git clone https://github.com/Noruegues/desafiosDocker.git
-
 ```
 
 ```
 cd desafiosDocker/desafioNginxNodeJs
-
 ```
 
 ```
 docker-compose up -d
-
 ```
 Para confirmar que a aplicação NodeJs, o Nginx e o banco MySQL estão funcionando, podemos acessar a url **localhost:8080** na web ou utilizar o código **curl -i localhost:8080** que irá retornar o texto **Full Cycle Rocks!** pedido e um **nome aleatório**.
 
@@ -58,7 +55,7 @@ ETag: W/"5e-McpANGkdQe+dIxYpvz42tkRXKgM"
       <h1>Full Cycle Rocks!</h1>
       <ol>
         <li>Lori Ernser DVM</li>
-      </ol>   
+      </ol> 
 ```
 Como na captura de tela a seguir:
 
