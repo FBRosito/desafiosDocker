@@ -4,14 +4,17 @@
 Arquivos utilizados para fazer e publicar a imagem com menos de 2MB no Docker Hub estão na pasta **desafioGo**.
 
 Ao digitar
-
+```
 docker run fernandorosito/codeeducation
-
+```
 O terminal retornará
 
 ```
 Code.education Rocks!
 ```
+Como na captura de tela a seguir:
+
+![image](https://user-images.githubusercontent.com/80263741/161098646-cf7e5bba-4169-40e8-8073-b03c42066f93.png)
 
 ### Desafio Nginx com Node.js
 
@@ -31,7 +34,7 @@ git clone https://github.com/Noruegues/desafiosDocker.git
 ```
 
 ```
-cd desafiosNginxNodeJs
+cd desafiosDocker/desafioNginxNodeJs
 
 ```
 
